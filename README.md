@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vagner Link Jr 👋
 
-- 🔭 Hoje trabalho como QA jr.
+- 🔭 Hoje trabalho como QA
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas / Senac-RS
-- 📚 Estudando Cypress.
+- 📚 Estudando automação em testes.
 - 📩 Contate-me no email: vagnerflj@gmail.com
 - 🏠 Pelotas - RS
 
